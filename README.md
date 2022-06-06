@@ -1,1 +1,1 @@
-https://DaryaPit.github.io/Rcv/cv
+https://DaryaPit.github.io/Rcv/CV.md
